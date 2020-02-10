@@ -1,6 +1,6 @@
-## fast.ai NLP course notes
+## fast.ai NLP course notes & experiments
 
-My own expanded notebooks and course notes from the [fast.ai Code-First NLP course](https://www.fast.ai/2019/07/08/fastai-nlp/)
+My own expanded notebooks and course notes from the [fast.ai Code-First NLP course](https://www.fast.ai/2019/07/08/fastai-nlp/), as well as related blog posts, tutorials, and my own experiements. Keeping me accountable for my own learning.
 
 The course GitHub repo is [here](https://github.com/fastai/course-nlp)
 
